@@ -1,8 +1,18 @@
-- 👋 Hi, I’m Allen Cardoso, also known as Drowsey and I'm so flattered to have someone reading this! Thank you!
-- 🌱 I’m currently learning C# and creating repositories to some exercises as I finish them and it also helps me to get used to this platform.
-- 📫 You can mail me if you want to: allenkevin.cardoso@gmail.com or you can chat with me through instagram @imdrowsey 
+😀 Hey there! I'm Allen Cardoso!
 
-- Thank you again and I hope we can help each other!
+👨‍💻 I'm an passionate .NET developer with a solid 2-year background in crafting and maintaining web APIs.
+
+💼 Currently, I work as a Software Engineer at Bemol, where I contribute to the development of cutting-edge solutions using mainly .NET framework.
+
+🎓 I hold a degree in Systems Analysis and Development, which has provided me with a strong foundation in software development principles and industry best practices.
+
+💡 I love taking on challenging problems and turning them into efficient code. My expertise lies in C#, .NET, and NoSQL databases, and I'm always expanding my knowledge to stay up-to-date with the latest industry trends.
+
+🌟 Throughout my career, I've collaborated with diverse teams, improving my communication skills to foster effective collaboration and ensure the delivery of top-notch software solutions.
+
+🌐 Besides coding, I have a deep passion for learning new technologies, exploring open-source projects, and sharing my knowledge through blogging and contributing to the developer community.
+
+📫 Feel free to connect with me on LinkedIn at linkedin.com/in/allencardoso or drop me an email at [allenkevin.cardoso@gmail.com](mailto:allenkevin.cardoso@gmail.com). Let's exchange ideas, collaborate, or simply geek out about software development!
 
 <!---
 Drowsey/Drowsey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
