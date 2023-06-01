@@ -14,6 +14,7 @@
 
 📫 Feel free to connect with me on LinkedIn at linkedin.com/in/allencardoso or drop me an email at [allenkevin.cardoso@gmail.com](mailto:allenkevin.cardoso@gmail.com). Let's exchange ideas, collaborate, or simply geek out about software development!
 
+🚀 You can check out my GitHub repositories to see some of my projects, experiments, and contributions. I'd love to hear your feedback or see your contributions. Together, let's build awesome things!
 <!---
 Drowsey/Drowsey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
